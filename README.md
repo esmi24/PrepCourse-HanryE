@@ -1,2 +1,1 @@
-# PrepCourse-HanryE
-Este es un repositorio de prueba y repaso del modulo dos prepCourse de Hanry
+Este proyecto de prueba y repaso trata de como crear un repositorio y clonarlo desde github a mi escritorio local.
